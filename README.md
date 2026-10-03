@@ -4,7 +4,7 @@ This repository contains the R analysis scripts used for the publicly available 
 
 **CHRNA3 and CHRNB2 transcript expression and co-detection in rat, mouse, and human hippocampus**
 
-The analyses examine transcript detection and same-cell/same-nucleus co-detection of the nicotinic acetylcholine receptor subunit genes **Chrna3/Chrnb2** in hippocampal inhibitory neuronal populations.
+The analyses examine transcript detection and same-cell/same-nucleus co-detection of the nicotinic acetylcholine receptor subunit genes Chrna3/Chrnb2 in mouse and CHRNA3/CHRNB2 in human hippocampal inhibitory neuronal populations.
 
 ## Analyses included
 
